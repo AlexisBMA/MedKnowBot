@@ -1,0 +1,250 @@
+abdominal distention
+abdominal mass
+abnormal fetal heart rate tracing
+abnormal genital bleeding
+abnormal lipid profile 
+abnormal serum tsh 
+acid-base disorder
+acute abdominal pain (< 72 hours, adult)
+acute abdominal pain (<72 hours)
+acute cough
+acute diarrhea
+acute hematemesis/melena
+acute kidney injury 
+acute pelvic pain
+acute renal failure
+altered level of consciousness
+altered level of consciousness gcs <7
+amblyopia
+amenorrhea
+anemia
+anemia with elevated mean corpuscular volume (mcv)
+anemia with low mean corpuscular volume
+anemia with normal mean corpuscular volume
+anorectal pain
+antenatal care
+anxiety disorders, associated with panic, excessive anxiety, fear, avoidance, and/or increased arousal, rule out anxiety disorder  due to general medical condition (e.g. hyperthyroidism, anemia, chf), another mental disorder, or substance/medication-induced anxiety disorder
+aphasia
+apparent life threatening event
+back pain 
+benign adrenal mass 
+bleeding in pregnancy 
+bleeding/bruising
+bone lesion
+breast discharge 
+breast disorders 
+burns
+causes of arrhythmia
+chest discomfort
+chest trauma
+chronic abdominal pain
+chronic cough (> 3 weeks)
+chronic diarrhea
+chronic joint pain
+chronic kidney disease
+chronic pelvic pain
+cognitive impairement 
+complications associated with the extreme preterm infant complications (<34 weeks gestational age)
+complications associated with the late preterm infant complications (34-36 weeks gestational age)
+congenital anomalies
+constipation
+constipation (adult)
+constipation (pediatric)
+cough
+cyanosis (<48 hrs)
+deformity/limp
+dehydration
+depressed/lethargic newborn
+dermatoses in pregnancy
+developmental delay 
+developmental delay: development at least 2 standard deviations below expected for age
+diastolic murmur
+diffuse lymphadenopathy
+diplopia
+disorder of pigmentation 
+dysarthria
+dysphagia
+dyspnea
+dysuria
+edema
+elevated liver enzymes 
+eneuresis
+excessive daytime sleepiness
+factors affecting fetal oxygenation 
+failure to thrive
+fall
+fatigue
+febrile seizures
+fever 
+fever (age 1-3 months)
+fever (age >3 months)
+fever (age<1 month)
+fever in the immunocompromised host
+fever of 
+fever of unknown origin / chronic fever
+fracture healing
+gait disturbance
+generalized edema
+genital lesion
+global developmental delay/intellectual disability
+growth discrepancy 
+gynecomastia
+hair loss
+headache
+hearing loss
+hematuria
+hemolysis
+hemoptysis
+hepatomegaly
+hipertension
+hirsutism
+hirsutism and virilization
+hoarseness
+hypercalcemia 
+hyperglycemia
+hyperkalemia
+hypernatremia
+hyperphosphatemia 
+hypertension
+hypertension in pregnancy
+hyperthyroidism
+hyperuricemia
+hypocalcemia
+hypoglycemia
+hypokalemia 
+hyponatremia
+hypophosphatemia
+hypothermia
+hypothyroidism
+hypotonic infant
+hypoxemia
+increased neutrophils
+increased unitary frequency
+increased urinary frequency
+infectious joint pain
+infertility
+inflammatory joint pain
+isolated right-sided heart failure
+jaundice
+large for gestational age (growth >90th percentile for ga)
+left-sided heart failure
+limp
+liver mass
+localized lymphadenopathy
+long pt (inr), long ptt
+long pt (inr), normal ptt
+long ptt/normal pt
+low platelet count
+lower gastrointestinal bleed
+lung nodule
+lymphadenopathy
+male sexual dysfunction
+malignant adrenal mass
+mediastinal mass
+metabolic acidosis 
+microcytic anemia
+mood disorders, rule out depressed or elevated mood disorder due to substances and/or general medical condition
+mood or anxiety disorder
+mouth disorders
+movement disorder 
+mucous membrane disorder
+murmur beyond neonatal period
+murmur in the newborn (<48 hrs)
+nail disorder
+nausea and comiting
+nausea and vomiting
+neck mass
+neonatal jaundice
+nephrolithiasis
+neutropenia
+non-epileptic paroxysmal event
+normal pt (inr), long ptt
+normal ptt/long pt
+objective lower motor neuron weakness
+obsessive-compulsive and related disorders, recurrent, persistent thoughts, urges or images associated with repetitive behaviours, rule out obsessive-compulsive and related disorder due to another medical condition (e.g. hyperthyroidism, anemia, chf), another mental disorder, or substance/medication-induced obsessive-compulsive and related disorder
+osteoporosis
+otalgia
+ovarian mass 
+paediatric infectious skin rash
+pain
+pathologic/fragility fractures
+pathologic/fragility fractures, low energy/no exercise/repeated use, always check neurological and vascular status one joint below injury
+pediatric diarrhea
+pediatric dyspnea
+pediatric epilepsies
+pediatric fractures
+pediatric seizures
+pelvic mass 
+pelvic organ prolapse 
+peripheral weakness 
+persistent proteinuria
+personality disorder, enduring pattern of experience and behaviour that derivates from cultural expectations, manifest in two or more of the following areas: cognition, affectivity, interpersonal functionaing, and impulse control, the pattern is inflexible and pervasive across many social and personal situations, the pattern leads to distress or impairment in important areas of functioning, the pattern is stable and of long duration, with an onset that can be traced back to childhood or adolescence, the pattern is not due to another mental illness, a general medical condition, or substance use
+pleural effusion
+polycythemia
+polyuria
+post partum fever (puerperal)
+post-partum hemorrhage 
+primary skin lesion
+proteinuria
+pruritus
+psychotic disorders, psychosis, rule out psychotic disorder due to substances and/or general medical condition
+pulmonary function tests
+pulmonary hypertension
+pulse abnormalities
+pupillary abnormality
+red eye
+renal mass
+respiratory distress
+school difficulty
+scrotal mass
+secondary skin lesion
+sellar/pituitary mass
+shock
+short stature
+skin lesion
+skin rash
+skin rash (pustular)
+skin rash (reactive) 
+skin rash eczematous
+skin rash papulosquamous
+skin rash vesiculobullous
+skin ulcer by etiology
+skin ulcer by location
+small for gestational age (growth <10th percentile for ga)
+smell dysfunction
+soft tissue
+somatoform disorder
+sore throat / rhinorrhea
+sore throat/sore mouth
+spell/seizure 
+splenomegaly
+stool incontinence
+strabismus 
+stridor in a child
+stroke 
+sudden paroxysmal event
+sudden unexpected death in infancy
+suspected acid-base disturbance 
+suspected deep vein thrombosis (dvt)
+sustained metabolic alkalosis 
+syncope
+systolic murmur
+tall stature 
+thrombocytosis
+tinnitus 
+trauma and stressor, involuntary, intrusive thoughts, memories, images, dreams or flashbacks causing psychological distress, rule out general medical condition (e.g. hyperthyroidism, anemia, chf), another mental disorder, or substance/medication-induced
+tumour
+types of arrhythmia
+upper motor neuron weakness
+urinary incontinence 
+urinary tract obstruction 
+vaginal discharge 
+vascular joint pain
+vascular lesions
+vertigo/dizziness 
+vision loss 
+vomiting
+weight gain
+weight gain/obesity 
+weight loss
+wheezing in a child

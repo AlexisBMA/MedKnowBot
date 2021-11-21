@@ -1,0 +1,116 @@
+version: "2.0"
+
+nlu:
+- intent: greet
+  examples: |
+    - hey
+    - hello
+    - hi
+    - hello there
+    - good morning
+    - good evening
+    - moin
+    - hey there
+    - let's go
+    - hey dude
+    - goodmorning
+    - goodevening
+    - good afternoon
+
+- intent: goodbye
+  examples: |
+    - good afternoon
+    - cu
+    - good by
+    - cee you later
+    - good night
+    - bye
+    - goodbye
+    - have a nice day
+    - see you around
+    - bye bye
+    - see you later
+
+- intent: affirm
+  examples: |
+    - yes
+    - y
+    - indeed
+    - of course
+    - that sounds good
+    - correct
+
+- intent: deny
+  examples: |
+    - no
+    - n
+    - never
+    - I don't think so
+    - don't like that
+    - no way
+    - not really
+
+- intent: mood_great
+  examples: |
+    - perfect
+    - great
+    - amazing
+    - feeling like a king
+    - wonderful
+    - I am feeling very good
+    - I am great
+    - I am amazing
+    - I am going to save the world
+    - super stoked
+    - extremely good
+    - so so perfect
+    - so good
+    - so perfect
+
+- intent: mood_unhappy
+  examples: |
+    - my day was horrible
+    - I am sad
+    - I don't feel very well
+    - I am disappointed
+    - super sad
+    - I'm so sad
+    - sad
+    - very sad
+    - unhappy
+    - not good
+    - not very good
+    - extremly sad
+    - so saad
+    - so sad
+
+- intent: bot_challenge
+  examples: |
+    - are you a bot?
+    - are you a human?
+    - am I talking to a bot?
+    - am I talking to a human?
+  
+- intent: give_symptom
+  examples: |
+    - When I was a child I had a deviation in my eyes
+    - I have trouble perceiving depth
+    - Sometimes I suffer from blurred vision
+    - Sometimes I suffer from double vision
+    - When I was a child my doctor diagnosed to me amblyopia
+    - I think I'm suffering amblyopia
+    - Last year I suspected amblyopia
+    - The doctor diagnosed to me ambliopya
+    - Could I have something related to ambliopya
+    - A friend told me that it could be ambliopya
+    - It's my daughter's first irregular month
+    - My daughter missed her period
+    - My daughter had always been regular in her menstruation
+    - Since I was little I had never suffered delays
+    - When I was little I was diagnosed with amenorrhea
+    - The doctor said it could be amenorrhea
+    - I'm 15 and my period hasn't come
+    - The doctor suspects amenorrea
+    - Could it be ammenorria?
+    - What are the symptoms of amenorea?
+
