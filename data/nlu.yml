@@ -98,10 +98,10 @@ nlu:
     - Sometimes I suffer from blurred vision
     - Sometimes I suffer from double vision
     - When I was a child my doctor diagnosed to me amblyopia
-    - I think I'm suffering amblyopia
+    - i think I'm suffering amblyopia
     - Last year I suspected amblyopia
     - The doctor diagnosed to me ambliopya
-    - Could I have something related to ambliopya
+    - Could i have something related to ambliopya
     - A friend told me that it could be ambliopya
     - It's my daughter's first irregular month
     - My daughter missed her period
@@ -113,4 +113,483 @@ nlu:
     - The doctor suspects amenorrea
     - Could it be ammenorria?
     - What are the symptoms of amenorea?
-
+    - My hair is falling out and I have constant fatigue
+    - I suffer from constant lethargy and headaches
+    - I'm usually dizzy and very irritated
+    - My nails break easily and I also find it difficult to breathe
+    - I suspect from anemia 
+    - My doctor told me that it could be anemia 
+    - When I was a child i suffered from anemia 
+    - It could be anemic
+    - Do i suffer of anemmea
+    - Do my symptoms resemble those of hanemia?
+    - I've always been socially isolated
+    - I have a hard time talking
+    - I get very confused when talking
+    - Sometimes I lose the ability to write
+    - When I a child I was diagnosed with aphasia
+    - The doctor suspects aphasia
+    - I think it could be aphasia, I meet all the symptoms
+    - I have always suspected affazia
+    - I think I could suffer from afasia 
+    - What are the symptoms of apazia
+    - The bleeding hasn't stopped in 5 minutes
+    - My wound is very big, more than a finger
+    - I'm bleeding a lot and it won't stop
+    - I have a bruise that is growing
+    - I hit and got a black spot
+    - I'm bleding too muchI usually get constipated by the cold
+    - When I fell I got a bruse
+    - the wound won't stop bleedin
+    - I don't know how to stop the bleeding
+    - I cut myself and I don't know how to heal myself
+    - I got a lump for touching the hot floor
+    - I touched the pan and it burns me
+    - I sunbathe a lot and my skin burns when they touch me
+    - I'm peeling off
+    - I got burned from being in the sun too long
+    - I touched something very hot and it burned me
+    - I scraped and burned my skin from the friction
+    - I born my arm
+    - I bornt my tongue 
+    - If my skin falls off, is it because I got born?
+    - I can't go to the bathroom for days
+    - I have abdominal pain
+    - I don't normally eat fiber
+    - I don't drink a lot of water and that's why it's hard for me to go to the bathroom
+    - I suffer from constipation very often
+    - If I can't go to the bathroom well, it could be constipation
+    - Is constipation normal in young people?
+    - Could I suffer from contipation if I don't drink water?
+    - Lack of fiber causes costipation?
+    - The doctor said it could be constipatio
+    - I smoke a lot and I have discomfort in my throat
+    - My throat feels swollen
+    - I can't pass the food without pain 
+    - I find it difficult to breathe
+    - I cough a lot
+    - I think it could be a cough
+    - I've been coughing a lot lately
+    - I couf a lot
+    - I usually caught 
+    - I have a constant cof from smoking
+    - I have a headache
+    - I'm so thirsty
+    - My mouth is dry
+    - I haven't had water in a long time
+    - I usually get dehydrated easily
+    - When I exercise I get dehydrated
+    - I think i might be dehydrated
+    - How is dedration?
+    - How can I get rid of dehydratation?
+    - Medications for dehydratio
+    - I have double vision
+    - My eyes hurt often
+    - I have both eyes swollen
+    - I recently hit my head
+    - I was recently detected diplopia
+    - The doctor suspects diplopia
+    - Diplopia symptoms
+    - I have always suspected diplopy
+    - My family suffers from diplop
+    - I never had dyplopia studies
+    - I´m presenting pain when i swallow the food 
+    - It's impossible for me to swallow food 
+    - When I eat i have the feeling of the food getting stuck at my throat 
+    - Lately I'm hoarse
+    - I'm having regurgitations 
+    - Lately I’m having heartburn
+    - The doctor told me it could be dysphagia
+    - I’m having my suspects on dysphagia 
+    - Do my symptoms aim to dysphagia? 
+    - Last year I lost a lot of weight
+    - I’m having trouble to breath 
+    - When I try to breath i feel like it is not enough oxygen 
+    - Lately I feel suffocation
+    - Last week I felt suffocation on the chest 
+    - Because of my work I living a lot of anxiety 
+    - My oxygen in blood dismissed last night 
+    - I have some personal problems that are causing me a lot of stress.
+    - A friend of mine experimented dyspnea 
+    - I searched for the symptoms and they all aim to dyspnea 
+    - Dyspnea is related to anxiety or stress?
+    - Last night I had fever 
+    - My urine is cloudy
+    - My urine smells bad
+    - I want to go to the bathroom all the time.
+    - I saw some blood on my urine
+    - I’m experimenting itch 
+    - I have inflammation on the genital zone
+    - I have had dysuria before
+    - Dysuria is the most accurate diagnosis
+    - Does dysuria produce fever?
+    - I have inflammation on the zone
+    - Lately all my clothes squeeze me 
+    - I lost a lot of flexibility  
+    - The amount of urine I produce is a lot less
+    - I gained a lot of weight in the last 6 months.
+    - My skin is brighter 
+    - Last year I was in treatment for cancer 
+    - I have had edemas before
+    - Do edemas can be generated by medicine?
+    - If I don’t do any exercise I can present edemas?
+    - My son still urinates in bed at 7 years.
+    - I’m presenting pain when I urinate. 
+    - All the time I’m thirsty 
+    - I can’t identify when I need to pee 
+    - I am diabetic
+    - I live a lot of stress in my school
+    - My father experimented enuresis when  he was a child
+    - I am hyperactive
+    - I suspect of enuresis
+    - My doctor told me it could be enuresis
+    - I’m having trouble with the memory 
+    - I’m having headaches very often 
+    - When I stand up I usually get dizzy
+    - Even if I sleep 8 hours I’m still tired 
+    - I can’t get focused 
+    - I’m having muscle pain without any reason.
+    - I’m having joint pain 
+    - I feel fatigue every day
+    - I can’t get rid of the fatigue
+    - Normally I get fatigued really easy
+    - My body temperature is higher than normal 
+    - I’m having chills
+    - The body aches are getting worse 
+    - Every time I move my head feels like it will explode
+    - I feel really fatigued
+    - The headache is getting worse
+    - I’m having intermittent sweating
+    - Since I got sick the fever is getting worse.
+    - Is the fever related to the flu?
+    - Can I take paracetamol to dismiss the fever?
+    - I’m having pain in the breast 
+    - My breast is getting sensible, anything that it touches me it hurst 
+    - My breast is swelling
+    - Recently I noticed my chest is getting bigger 
+    - One of my nipples has a discharge
+    - The clothes are starting to hurt my breast.
+    - It could be gynecomastia
+    - The doctor diagnosed me with gynecomastia
+    - I have all the symptoms of gynecomastia
+    - My breast hurts so it could  be gynecomastia
+    - I’m having dizziness for about two hours 
+    - Había estado vomitando desde la mañana.
+    - I’m having blurry vision
+    - My head feels like it would explode 
+    - I’m very sensitive to the light
+    - All the noises increment the pain 
+    - I’m having fever 
+    - Every time I move the pain gets worse
+    - For the last hour I’d been experiencing difficulty to speak 
+    - I’m having trouble moving around
+    - My urine is a little bit pink
+    - When I peed I saw a blood clot
+    - Recently I got a kidney infection
+    - When I pee I see some blood 
+    - My pee changed its color to red.
+    - When I got examined the doctor told me it could be hematuria
+    - Does hematuria present as symptom pain in the lower back?
+    - What are the main reasons for getting hematuria?
+    - I had some pain while doing pee
+    - Does hematuria get better by itself?
+    - My eyes are turning a little bit yellow
+    - I had fever last night 
+    - Lately I’m feeling weak
+    - Lately I feel confused 
+    - The last week I presented dizziness
+    - My skin is turning yellow 
+    - My urine color it's darker than normal 
+    - I suspect of hemolysis
+    - All my symptoms aim to hemolysis
+    - Does hemolysis produce fever?
+    - Since last week I’m presenting cough
+    - The doctor diagnosed me with dyspnoea
+    - I have thoracic pain since yesterday 
+    - Yesterday when i coughed I spitted sputum
+    - I have had cough all the week 
+    - My cough is getting worse without any reason.
+    - When I cough I spit blood 
+    - I’m having difficulties to breath 
+    - I think I’m presenting hemoptysis
+    - The doctor told me it could be hemoptysis
+    - My headache is getting worse 
+    - Yesterday I felt confusion 
+    - I was presenting dizziness
+    - I had some nose bleeding
+    - Last week I had some vision problems
+    - In the morning I vomited up 
+    - When I was walking I noticed I was presenting blurry vision
+    - My parents were diagnosed with hypertension
+    - The doctor dispatched me some studies to determine if I have hypertension
+    - Is hypertension related to vision problems?
+    - My voice is getting deepest
+    - I’m having loss of hair 
+    - Lately I can’t control my acne 
+    - Without any change in my diet I’m gaining weight
+    - I’m presenting some pink pigmentation all over my body
+    - My mustache hair is growing much than before  
+    - I noticed that my hair is growing much more.
+    - My mother was diagnosed with hirsutism
+    - Is hirsutism related to changes in the voice?
+    - Symptoms of hirsutism
+    - I’m presenting pain in the throat 
+    - When I try to speak my throat hurts 
+    - I have cough 
+    - I can’t speak loud 
+    - When I swallow my throat hurts
+    - I talked a lot yesterday, and today I can’t say a word
+    - Because of the cold I’m hoarseness
+    - My throat hurts, it might be hoarseness
+    - How to deal with hoarseness?
+    - The doctor diagnosed me with hoarseness, it is not a cough.
+    - My oxygen level is below 80
+    - I think I have hipoxemia
+    - I have my oxygen level lower than normal
+    - I measure my oxygen level and is low
+    - My blood oxygen levels are low
+    - The nurse told me I have hypomexia
+    - I´m having hypoxemia
+    - I have a low level of oxygen, I think is called hipoxemia
+    - It might be called ypoxemia
+    - The nurse told me I have bluish color in my skin, so it might be hypocemia
+    - I´m inferlile 
+    - I can´t have childs
+    - I have relationships with my partner but I can´t seem to get pregnant
+    - I can´t get my wife pregnant
+    - I had an accident when I was young and they told me I can´t have kids
+    - Some years ago my doctor told me I was imfertil
+    - I was diagnosed with infertitity
+    - I think it is unexplained infertylity
+    - I was told I am infertile
+    - The diagnosis was imfertily
+    - My skin is yellow
+    - The white part of my eyes is turning yellow
+    - I had problems with my liver before, I had high levels of bilirubin 
+    - My bilirubin levels are higher than normal
+    - My mucous during the last few days has turned yellow
+    - When I was borned I had Infant jaundice 
+    - Some years ago I had jaundis 
+    - My son was diagnosed with gaundice
+    - The person at the lab told me I was presenting sintoms of jaundise 
+    - I think what I have is called jandice, since my skin is yellow
+    - I´m not able to walk well
+    - I usually limp
+    - Sometimes when I'm walking I start feeling weird and I start limping 
+    - I can´t lean on one of my legs.
+    - I had an accident and I can´t walk without a cane.
+    - I linp.
+    - My leg was injured years ago so I lim. 
+    - I have lip because I had an accident years ago.
+    - I started liping some weeks ago.
+    - I have been limpping for a few days.
+    - I have a red lump under my skin.
+    - I have been losing weight since apparent reason.
+    - Lately I have been feeling really tired and I have a warm lump under my skin. 
+    - My grandparent told me it is called lymphadepathy.
+    - I searched in google and is called lymphadenophaty.
+    - I once read and what I have might be lympadenopaty.
+    - I had been swallowing soft bumps that are the size of a grape.
+    - My previous doctor told me it was lymphadenophaty.
+    - I have lymphadenophaty.
+    - One of my syntoms is lymfadenopaty.
+    - I have kidney stones
+    - I have a lot of pain in the side of my adbomen
+    - I have been feeling nauseous and with pain in my adbomen
+    - I have stones 
+    - Some years ago the doctor told me I had nephrolitiasys
+    - My grandma had nephrolytiasys and I was also diagnosed with that
+    - I remembered someone told me it might be nepholitiasis
+    - I was told I had nefrolitiasis
+    - For a few years I have had nefrolithiasis
+    - A nurse told me the name of what I have is nephrolithiasis
+    - I have been getting sick a lot lately 
+    - I have been feeling weak and I got 3 different diseases in the last few weeks 
+    - During the last few weeks I had fever and I think I'm getting sick 
+    - I cut myself a week ago and I don´t see any  improvement, is really red it hurts
+    - I was told I have neutropenia
+    - My doctor said it was called neutropinea
+    - My main symptom is neutopenya
+    - I have neutropinia
+    - I search and it might be netropenia, since I´m getting sick a lot. 
+    - I think is neutropinea
+    - I have a lot of pain in my joints
+    - Lately when I move I hear some cracks in my bones. 
+    - I´m over my 70´s and I think I might be getting shorter
+    - I was diagnosed with osteporosis
+    - I had a small fall and I fracture my wrist
+    - I was told that with my age I might have osteporos
+    - Last year I discovered that I have osteoporosys
+    - I didn´t drink milk when I was younger so I´m afraid it might be hosteoporosys
+    - When I went to the doctor she told me it has oteoporosisis
+    - Other symptom might be osteoporosis
+    - My ear hurts and I´m not able to hear
+    - I felt a lot of pain in my ear and I couldn´t hear anything because of the pain
+    - I felt vertigo and I have been feeling my ear weird
+    - My ear is aching
+    - During the last few weeks I had otalgia
+    - Since my accident I think I have hotalgia
+    - My wife told me it is called otelgia
+    - My old doctor told me the correct name was otagya
+    - I have otalga
+    - I searched and the name of this symptom is otalgea 
+    - My arm hurts so much
+    - My head is aching so much
+    - I have been feeling a lot of pan
+    - During the last few weeks I feel like everything is aching
+    - It hurts a lot.
+    - I feel a lot of paint
+    - It is really painful 
+    - I think is more than a simple pain
+    - Is just a little bit of pian 
+    - I think this is paintful
+    - I have high blood pressure and I feel confused
+    - During the last few days I felt discomfort on my tummy and I feel dizzy
+    - My hands and face are turning red 
+    - Lately I feel tired all the time and also confused
+    - The other day I saw blurred and before I felt confused
+    - The term is polycytema
+    - I read that I have is policitemia
+    - I might have pollycytemia
+    - I read that what I have is polycythaemia
+    - What I have is policythamie
+    - I feel really thirsty
+    - I have anxiety and I want to pee a lot.
+    - I have diabetes and I go to the bathroom a lot
+    - I am always peeing 
+    - When I go to pee I spend a lot of time in there
+    - I think I have poliurya
+    - Once someone told me the term was poluria
+    - I search and the name of what I have is polliurya
+    - The lady at the clinic called it poluyria
+    - The name of what I have is polyuria
+    - In my studies they told me I had high levels of protein in my urine
+    - When I wake up I feel my eyes puffy 
+    - During the last nights I have cramps at night
+    - I see bubbles in my urine and my hands are swell 
+    - I have no appetite, have shortness of breath and I have cramps at night
+    - I have poteinuria
+    - The doctor told me is protenura
+    - A nurse told me it was poteinua
+    - Google says is proteinuia
+    - Last time you told me it was proteinuria
+    - I´m red and I have scratch marks
+    - My skin is dry and red
+    - I have bumps and blisters
+    - My skin is itching
+    - I have cracked skin that itches a lot
+    - I have puritus
+    - The name is puritrus
+    - Give me something for my proritus
+    - I have prituris
+    - The doctor told me it was pruritus
+    - My mom says Im pale and cold
+    - I'm breathing more fast than normal
+    - My heartbeat is really fast, and I'm worry is something serious
+    - I feel my mouth thirst and I cant breath well
+    - I´m pale, and my heart is beating faster than usual
+    - I think I might be in chock
+    - I think I'm in shpck
+    - My mom might be in shoc
+    - I was in chok
+    - It was a shock, I was pale and cold and couldn't breath
+    - He stares at one point and you can't have his attention
+    - He starts moving weird and then his body stiffens
+    - I lost consciousness after having some breathing problems
+    - My daughter felt without reason and lost her conscious 
+    - They told me my eyes were blinking to much, but I can't remember anything
+    - I had a zeiuzure before
+    - Since I was young I have seisures
+    - My mom also has zisures
+    - It was a stizure
+    - I had a seizure
+    - I had a pain in my belly that extended to my left shoulder
+    - I felt really full but I haven't ate anything during the day
+    - I had a small cut and it started bleading like crazy
+    - I feel tired all the time and I'm getting sick easily
+    - I 'm frequently getting sick and I feel pain in my belly and shoulder
+    - I might have spenomegaly
+    - The doctor told me it was splenogaly
+    - The name is splenomemaly
+    - I remember it was called spenomegaty
+    - I have splenomegaly
+    - My eyes are looking in different directions at the same time.
+    - My son's eyes can't move together.
+    - My son is always bumping into things and his eyes don't seem normal
+    - I have crossed eyes
+    - My eyes don't move together and I always have to turn my head to see things
+    - I have stabismis
+    - My husband has strabimsus
+    - What I have is stabimus
+    - I think what I have is strabusmis
+    - My son has strabismus
+    - I felt my face and arms numb on only one side of my body
+    - I couldn't speak or see
+    - My boss wasn't able to coordinate his arms and he was speaking weird
+    - I felt dizzy and lost my balance, then I felt confused and couldn't speak
+    - I start having a terrible headache for no reason and then my body started to feel numbed
+    - I had a strok
+    - This was my second strpke
+    - What I had was a stoke
+    - The doctor told me it was a srtoke
+    - For the first time I had a stroke
+    - That day I felt groggy and then I blacked out
+    - I start having tunnel vision and then I felt for no reason
+    - I fainted everytime I did some physical activity
+    - I stand up and I was feeling weak, it repeated a couple of times
+    - My mom told me I seemed weak, then I blacked out
+    - I have sincope
+    - The name is saincope
+    - Someone taught me the name was syncop
+    - The nurse told me the term was sincopi
+    - It was a syncope
+    - My nose is bleeding a lot and I feel a pain in my chest
+    - During the last few weeks I woke up with bruises that I have no idea of how they got there.
+    - My mouth lately bleeds for everything
+    - I feel numb and I have bruises in my arms but I don't know why.
+    - The other day my hands start to feel like they were burning and today I had the same feeling in my feet
+    - I think I have trombocitosys
+    - Some months ago a clinic told me I had thrombositos
+    - I was diagnosed with thombocytosys
+    - The name is Thrombotosis
+    - My final diagnosis was thrombocytosis
+    - I hear a noise in my ear.
+    - I feel a whistling sound in  my ear even if I´m in a room with no wind.
+    - I feel like someone is hissing on my ear.
+    - It sounds like a roar but I´m the only one who hears it.
+    - Is a ringing that I am continuously hearing
+    - I have tinitus
+    - My previous doctor told me it was tinntus
+    - Your nurse once told me the correct name was tinninus
+    - It is pronounced tynytus
+    - I might have tinnitus
+    - I had a terrible headache
+    - My family told me I had some drastic changes in my personality
+    - I felt a strange lump on my left breast
+    - I had a mammography and the result wasn´t good
+    - I felt something like a little ball on my testicle
+    - I am afraid it might be a tunour
+    - They didn´t told me if it was malignant or benign
+    - It is a tumur
+    - I think it might bee a tomour
+    - I have a tumour
+    - I feel like everything around me is moving
+    - When I was on the boat I felt nauseous
+    - I couldn't hear with one ear and then I vomit
+    - I couldn't focus my eyes and I was sweating
+    - I had balance problemas and I felt like everything was moving
+    - I had bertigo
+    - I felt vetigo
+    - I felt dissy
+    - It was wertigo
+    - The feeling of vertigo was the worst of all
+    - I felt a pain in my stomach and then it happened
+    - I was sweating and out of nowhere blaargh
+    - I ate a lot but that made me feel sick so then I just went to the bathroom and let it out
+    - I drank too much and I wasn't feeling well, so I went to the bathroom and you can imagine the rest.
+    - I puke
+    - I was bomiting
+    - I have been vommiting a lot
+    - I ran to the bathroom but before I could make it I vonnit 
+    - My dad started gomiting
+    - Then I started vomiting

@@ -6,7 +6,7 @@
 
 
 # This is a simple example for a custom action which utters "Hello World!"
-import datetime as dt
+import time 
 from typing import Any, Text, Dict, List
 from transformers import pipeline
 classifier = pipeline("zero-shot-classification")
@@ -15,8 +15,6 @@ from rasa_sdk import Action, Tracker
 from rasa_sdk.executor import CollectingDispatcher
 
 class ActionHelloWorld(Action):
-    
-    
     
     def obtain_top_labels(userI, limit, labels):
         ans = classifier(userI, labels)
@@ -33,7 +31,13 @@ class ActionHelloWorld(Action):
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
         chiefSigns = open("chiefSigns.txt", "r")
         candlabels = chiefSigns.readlines()
-        ans = classifier(tracker.latest_message['text'], candlabels)
+        fInput = tracker.latest_message['text'].split('.')[0]
+        sInput = tracker.latest_message['text'].split('.')[1]
+        print(fInput)
+        print(sInput)
+        sLabels = classifier(fInput, candlabels)
+        time.sleep(20)
+        ans = classifier(sInput, sLabels)
         prob = {}
         for i in range(10):
             prob[ans['labels'][i]] = ans['scores'][i]
