@@ -36,8 +36,10 @@ class ActionHelloWorld(Action):
         print(fInput)
         print(sInput)
         sLabels = classifier(fInput, candlabels)
-        time.sleep(20)
-        ans = classifier(sInput, sLabels)
+        # time.sleep(30)
+        ans1 = classifier(sInput, candlabels)
+        ans = {x:sLabels[x] for x in sLabels 
+                              if x in ans1}
         prob = {}
         for i in range(10):
             prob[ans['labels'][i]] = ans['scores'][i]
