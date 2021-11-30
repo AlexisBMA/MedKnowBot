@@ -26,9 +26,11 @@ class ActionHelloWorld(Action):
     def name(self) -> Text:
         return "action_return_prob"
 
-    def run(self, dispatcher: CollectingDispatcher,
+    async def run(self, dispatcher: CollectingDispatcher,
             tracker: Tracker,
             domain: Dict[Text, Any]) -> List[Dict[Text, Any]]:
+
+        dispatcher.utter_message(text=f"These are your chief complaints related to your symptoms")
         chiefSigns = open("chiefSigns.txt", "r")
         candlabels = chiefSigns.readlines()
         fInput = tracker.latest_message['text'].split('.')[0]
@@ -39,13 +41,18 @@ class ActionHelloWorld(Action):
         # time.sleep(30)
         ans1 = classifier(sInput, candlabels)
         ans = {x:sLabels[x] for x in sLabels 
-                              if x in ans1}
+                              if x in ans1} 
         prob = {}
         for i in range(10):
             prob[ans['labels'][i]] = ans['scores'][i]
-        dispatcher.utter_message(text=f"{prob}")
 
-        return []
+        for e in prob:
+            res = e + ": " + str(prob[e])
+            dispatcher.utter_message(text=f"{res}")
+
+        # dispatcher.utter_message(text=f"{prob}")
+
+        return [prob]
 
 
 
