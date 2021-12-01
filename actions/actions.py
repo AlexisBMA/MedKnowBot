@@ -33,26 +33,15 @@ class ActionHelloWorld(Action):
         dispatcher.utter_message(text=f"These are your chief complaints related to your symptoms")
         chiefSigns = open("chiefSigns.txt", "r")
         candlabels = chiefSigns.readlines()
-        fInput = tracker.latest_message['text'].split('.')[0]
-        sInput = tracker.latest_message['text'].split('.')[1]
-        print(fInput)
-        print(sInput)
-        sLabels = classifier(fInput, candlabels)
-        # time.sleep(30)
-        ans1 = classifier(sInput, candlabels)
-        ans = {x:sLabels[x] for x in sLabels 
-                              if x in ans1} 
+        userInput = tracker.latest_message['text']
+        print(userInput)
+        sLabels = classifier(userInput, candlabels)
         prob = {}
         for i in range(10):
-            prob[ans['labels'][i]] = ans['scores'][i]
-
-        for e in prob:
-            res = e + ": " + str(prob[e])
+            res = sLabels['labels'][i] + ": " + str(sLabels['scores'][i])
             dispatcher.utter_message(text=f"{res}")
 
-        # dispatcher.utter_message(text=f"{prob}")
-
-        return [prob]
+        return []
 
 
 
